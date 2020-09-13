@@ -18,8 +18,9 @@ Then this is for you.
     - Click new and paste the path location of your `blender.exe` file e.g. `"C:\Program Files\Blender Foundation\Blender\`
     - Okay Save etc. test if you've done it by opening up `CMD` after making the change, entering `blender` and confirming that blender opens.
 - Set the `.bat` files as the default application to open the 3D files with
-    - Right click
+    - Right click on an `STL` or `OBJ` file
     - Open with
     - Choose another app
+    - Check `Always use this app to open 'stl' files
     - More apps (at the bottom of the application list)
-    - navigate to the `.bat` file for `STL` or `OBJ` respectively
+    - navigate to the `openMeshinBlender.bat` file
