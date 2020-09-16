@@ -1,5 +1,5 @@
-# blender-default-for-stl
-Open stl and obj files in Blender rather than 3D Viewer or Paint 3D
+# blender_default_for_mesh
+Open stl, obj and dae files in Blender rather than 3D Viewer or Paint 3D
 
 ## What
 Do you open stl and obj files in Blender often?
